@@ -38,7 +38,7 @@ export default function Header() {
       >
         I am a fullstack developer from Bangalore, India with 5+ years of
         experience in multiple companies like Deloitte, Coforge and Digital
-        Harbor
+        Harbor.
       </motion.p>
 
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
