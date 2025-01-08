@@ -77,7 +77,7 @@ const Contact = () => {
             name="name"
             placeholder="Enter your name"
             required
-            className="flex-1 p-3 outline-none border-gray-400 rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
+            className="flex-1 p-3 outline-none border-[0.5px] border-gray-400 rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
             initial={{ x: -50, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ delay: 1.1, duration: 0.6 }}
@@ -87,7 +87,7 @@ const Contact = () => {
             name="email"
             placeholder="Enter your email"
             required
-            className="flex-1 p-3 outline-none border-gray-400 rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
+            className="flex-1 p-3 outline-none border-[0.5px] border-gray-400 rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
             initial={{ x: 50, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ delay: 1.2, duration: 0.6 }}
