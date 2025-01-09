@@ -37,8 +37,7 @@ export default function Header() {
         className="max-w-2xl mx-auto font-Ovo"
       >
         I am a fullstack developer from Bangalore, India with 5+ years of
-        experience in multiple companies like Deloitte, Coforge and Digital
-        Harbor.
+        experience in companies like Deloitte and Coforge.
       </motion.p>
 
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">

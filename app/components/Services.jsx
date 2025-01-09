@@ -35,9 +35,11 @@ function Services() {
         whileInView={{ opacity: 1 }}
         transition={{ delay: 0.7, duration: 0.5 }}
       >
-        I am a fullstack developer from Bangalore, India with 5+ years of
-        experience in multiple companies like Deloitte, Coforge and Digital
-        Harbor
+        I have 5+ years of extensive experience in Full-Stack development and
+        DevOps, specializing in JavaScript for software development. Work
+        experience in companies like Deloitte and Coforge where I have design
+        the robust application/product structures and optimizing their
+        performance to achieve the utmost customer satisfaction.
       </motion.p>
 
       <motion.div
