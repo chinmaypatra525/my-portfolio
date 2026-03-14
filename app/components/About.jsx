@@ -55,10 +55,7 @@ function About({ isDarkMode }) {
           transition={{ duration: 0.8, delay: 0.6 }}
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            I'm a web developer with a focus on the MERN stack, but still
-            exploring other technologies and frameworks that catch my interest!
-            if you're looking for a developer to add to your team, I'd love to
-            hear from you!
+            I'm an AI Engineer focused on building intelligent, data-driven systems using machine learning and modern AI technologies. With a strong software engineering background, I enjoy turning complex data into scalable AI solutions and continuously exploring new advancements in artificial intelligence. If you're building something exciting with AI, I'd love to connect.
           </p>
 
           <motion.ul
