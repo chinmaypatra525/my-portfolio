@@ -78,37 +78,37 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Generative AI Applications',
+        description: 'Gen AI App',
         bgImage: '/work-1.png',
     },
     {
-        title: 'Backend Project',
-        description: 'Web Design',
+        title: 'Agentic AI Systems',
+        description: 'Agentic AI App',
         bgImage: '/work-3.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'AI Backend & APIs',
+        description: 'Backend & APIs',
         bgImage: '/work-2.png',
     },
     
     {
-        title: 'Web Automation',
-        description: 'Automation code',
+        title: 'AI Automation & Workflows',
+        description: 'AI Automation',
         bgImage: '/work-4.png',
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'Cloud Hosting', description: 'Cloud Hosting provide the seamless deployement experience to customer... ', link: '' },
-    { icon: assets.graphics_icon, title: 'Web/Api Automation ', description: 'Web/Api Automation focuses on creating a automation solutions to provide seamless user experience...', link: '' },
+    { icon: assets.web_icon, title: 'Generative AI', description: 'Building AI-powered applications using Large Language Models...', link: '' },
+    { icon: assets.mobile_icon, title: 'Agentic AI', description: 'Designing autonomous AI agents capable of reasoning, tool usage...', link: '' },
+    { icon: assets.ui_icon, title: 'Backend & APIs', description: 'Developing scalable backend systems and APIs to integrate AI models... ', link: '' },
+    { icon: assets.graphics_icon, title: 'AI Automation', description: 'Creating AI-driven automation solutions that streamline tasks, integrate external...', link: '' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, TypeScript, React Js, Next Js, Node Js, Express Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Python, JavaScript, TypeScript, SQL, Vector Databases, LLMs, RAG, LangChain, OpenAI APIs, Hugging Face, Prompt Engineering' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelor of Technology' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
