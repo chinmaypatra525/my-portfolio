@@ -36,8 +36,7 @@ function Work(isDarkMode) {
         whileInView={{ opacity: 1 }}
         transition={{ delay: 0.7, duration: 0.5 }}
       >
-        Welcome to my web development portfolio! Explore a collection of
-        projects showcasing my expertise in front-end and Back-end development.
+        Welcome to my AI engineering portfolio! Explore a collection of projects showcasing my work in Generative AI, LLM-powered applications, and Agentic AI systems designed to solve real-world problems.
       </motion.p>
 
       <motion.div
