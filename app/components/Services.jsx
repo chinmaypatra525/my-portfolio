@@ -35,11 +35,7 @@ function Services() {
         whileInView={{ opacity: 1 }}
         transition={{ delay: 0.7, duration: 0.5 }}
       >
-        I have 5+ years of extensive experience in Full-Stack development and
-        DevOps, specializing in JavaScript for software development. Work
-        experience in companies like Deloitte and Coforge where I have design
-        the robust application/product structures and optimizing their
-        performance to achieve the utmost customer satisfaction.
+        I am an AI Engineer specializing in Generative AI and Agentic AI systems, focused on building intelligent applications powered by modern large language models. I design and develop AI solutions such as LLM-powered assistants, autonomous agents, and AI-driven automation systems. My work involves integrating AI models with scalable backend systems to create real-world, production-ready AI products.
       </motion.p>
 
       <motion.div
