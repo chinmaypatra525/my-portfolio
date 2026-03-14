@@ -28,7 +28,7 @@ export default function Header() {
         transition={{ duration: 0.8, delay: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
-        Full Stack web developer based out of Bangalore.
+        Gen AI AI Engineer based out of Bangalore.
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
@@ -36,8 +36,7 @@ export default function Header() {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        I am a fullstack developer from Bangalore, India with 5+ years of
-        experience in companies like Deloitte and Coforge.
+        I am a Generative AI Engineer from Bangalore, India, focused on building LLM-powered applications, AI agents, and intelligent automation systems. I bring 6+ years of software engineering experience, having worked at Deloitte, Coforge, and Commonwealth Bank of Australia building scalable and production-ready systems.
       </motion.p>
 
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
